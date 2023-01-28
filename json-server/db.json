@@ -1,0 +1,10 @@
+{
+    "product": [
+        {
+            "id": 1,
+            "name": "áo dài ",
+            "price": 200,
+            "description":"áo dài này quá trời đẹp luôn á"
+        }
+    ]
+}
